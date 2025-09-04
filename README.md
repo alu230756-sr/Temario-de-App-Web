@@ -2,6 +2,44 @@
 
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 1.-Introducción al desarrollo web  
+¿Qué es el desarrollo web?
+El desarrollo web abarca todas las actividades relacionadas con la creación de sitios web, incluyendo:
+
+Diseño web: Estructura visual, experiencia de usuario y diseño gráfico.
+Programación web: Implementación de funcionalidades utilizando lenguajes de programación.
+Administración de servidores y bases de datos: Gestión del alojamiento y la persistencia de datos.
+Componentes principales
+Front-end (lado del cliente):
+
+Es la parte que interactúa con los usuarios.
+Utiliza tecnologías como HTML, CSS y JavaScript para crear interfaces atractivas y funcionales.
+Ejemplo: Formularios, menús, animaciones.
+Back-end (lado del servidor):
+
+Procesa la lógica de la aplicación y gestiona la interacción con la base de datos.
+Utiliza lenguajes como Python, PHP, Java, Node.js, entre otros.
+Ejemplo: Autenticación de usuarios, almacenamiento de datos, procesamiento de órdenes.
+Bases de datos:
+
+Permiten almacenar y recuperar información de forma eficiente.
+Ejemplos: MySQL, PostgreSQL, MongoDB.
+Tipos de desarrollo web
+Sitios web estáticos: Contenido fijo, creado principalmente con HTML y CSS.
+Sitios web dinámicos: El contenido puede cambiar en función de la interacción del usuario, normalmente con ayuda de lenguajes de programación y bases de datos.
+Aplicaciones web: Software complejo que se ejecuta en el navegador, como redes sociales, plataformas de comercio electrónico, etc.
+Herramientas y tecnologías básicas
+HTML (HyperText Markup Language): Estructura básica del contenido web.
+CSS (Cascading Style Sheets): Estilización y diseño visual.
+JavaScript: Interactividad y dinamismo en la página.
+Frameworks y librerías: Bootstrap, React, Angular, Vue.js, etc.
+Proceso típico de desarrollo web
+Planeación: Definir objetivos, público objetivo y funcionalidades.
+Diseño: Crear prototipos y estructuras visuales.
+Desarrollo: Programar la funcionalidad y el diseño.
+Pruebas: Verificar el correcto funcionamiento.
+Despliegue: Publicar el sitio o aplicación en un servidor.
+Mantenimiento: Actualizar y mejorar el sitio de forma continua.
+
 Historia y evolución del desarrollo web  
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
 2.Arquitectura de aplicaciones web  
