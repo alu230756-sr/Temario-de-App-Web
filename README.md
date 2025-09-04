@@ -1,9 +1,9 @@
-## Temario-de-App-Web
+# Temario-de-App-Web
 
 ## Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 
-**1.-Introducción al desarrollo web  
-¿Qué es el desarrollo web?
+# 1.-Introducción al desarrollo web  
+## ¿Qué es el desarrollo web?
 El desarrollo web abarca todas las actividades relacionadas con la creación de sitios web, incluyendo:
 
 Diseño web: Estructura visual, experiencia de usuario y diseño gráfico.
